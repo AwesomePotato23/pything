@@ -1,7 +1,6 @@
 import os
 import time
 import random
-import setup.py
 
 ###########
 # Pything #
@@ -13,3 +12,6 @@ import setup.py
 
 print("Loading...")
 time.sleep(8.5)
+print("GOING INTO SETUP")
+time.sleep(5.75)
+import setup
